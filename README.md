@@ -6,5 +6,15 @@ I would be interested in having a discussion around opportunities. Thank you for
 
 
 
-Project- 1: The Power of Alternate Data and Asking the Right Questions:
+### Project- 1: The Power of Alternate Data and Asking the Right Questions:
+The Netflix  insight project began as a thesis to explore how much undisclosed information can be extracted from a given dataset. Netflix is known for being guarded about its operational data, making it an ideal candidate for this type of research.
 
+Using publicly available datasets and basic statistical analytics. I extracted significant insights and built forecasts about Netflix's operations, including: 
+- A predictive model for forecasting subscriber numbers.
+- Forecasting video growth trends.
+- Identifying engaging content types.
+- Predicting cloud storage costs for the entire library.
+
+At the conclusion of the exercise, I deemed that other than the inherent value of data, data's value can be extended based on the type of questions that are posed by the analyst.
+
+Files available at [Netflix](https://github.com/Daa7314/netflix)
